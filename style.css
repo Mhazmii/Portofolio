@@ -39,11 +39,11 @@ body {
 }
 
 .box .logo .wave path {
-    fill: #ae6449;
+    fill: #011b3b;
 }
 
 .box .description {
-    background-color: #ae6449;
+    background-color: #011b3b;
     padding: 30px;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
