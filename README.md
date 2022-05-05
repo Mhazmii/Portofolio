@@ -1,6 +1,6 @@
 # CardProfile.github.io
 # Profile-Card
-![image] (https://i.postimg.cc/kMfY0SXw/Screenshot-314.png)
+![image] (https://postimg.cc/xqNPHcmb)
 
  Copyright. All Rights Reserved
               Developed by [Mhazmii]
