@@ -35,7 +35,7 @@ body {
 }
 
 .box .logo small {
-    color: #ae6449;
+    color: #000000;
 }
 
 .box .logo .wave path {
@@ -47,12 +47,12 @@ body {
     padding: 30px;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
-    box-shadow: 0px 1px 5px #d4d4d4;
+    box-shadow: 0px 1px 5px #ffffff;
 }
 
 .box .description p {
     text-align: center;
-    color: #fde3df;
+    color: #ffffff;
     margin-bottom: 50px;
 }
 
@@ -62,14 +62,14 @@ body {
 }
 
 .box .description .social a svg {
-    stroke: #e1bfb7;
+    stroke: #ffffff;
     transition: stroke .3s;
 }
 
 .box .description .social a:hover svg {
-    stroke: #ffd7cf;
+    stroke: #ffffff;
 }
 
 .box .description .social .feather-twitter, .feather-github {
-    fill: #e1bfb7;
+    fill: #ffffff;
 }
