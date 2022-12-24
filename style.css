@@ -28,7 +28,7 @@ body {
 
 }
 
-.box .logo img {
+.box .logo img:not(#wave) {
     width: 40%;
     border-radius: 100%;
     margin-bottom: 16px;
@@ -36,10 +36,6 @@ body {
 
 .box .logo small {
     color: #000000;
-}
-
-.box .logo .wave path {
-    fill: #0c141e;
 }
 
 .box .description {
